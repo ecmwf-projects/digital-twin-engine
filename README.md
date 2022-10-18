@@ -1,7 +1,7 @@
 # Digital Twin Engine
 
 [![Documentation Status](https://readthedocs.org/projects/digital-twin-engine/badge/?version=latest)](https://digital-twin-engine.readthedocs.io/en/latest/?badge=latest)
-[![Licence](https://img.shields.io/github/license/ecmwf-projects/digital-twin-engine)](https://github.com/ecmwf-projects/digital-twin-engine/blob/develop/LICENSE)
+[![Licence](https://img.shields.io/github/license/ecmwf-projects/digital-twin-engine)](https://github.com/ecmwf-projects/digital-twin-engine/blob/master/LICENSE)
 
 A central source for Digital Twin Engine documentation as part of the Destination Earth project.
 
