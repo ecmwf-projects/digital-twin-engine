@@ -7,14 +7,14 @@ Components
 ----------
 
 
-* `fdb <https://github.com/ecmwf/fdb>`_ (github)
+* `fdb <https://github.com/ecmwf/fdb>`_ 
 * `multio <https://multio.readthedocs.io/en/latest/>`_
 * `aviso <https://pyaviso.readthedocs.io/en/latest/>`_
 * `polytope <https://polytope.readthedocs.io/en/latest/>`_
 * `pyfdb <https://pyfdb.readthedocs.io/en/latest/>`_
 * `metview <https://metview.readthedocs.io/en/latest/index.html>`_
-* `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_ (docs in progress)
-* `atlas <https://confluence.ecmwf.int/display/ATLAS>`_
+* `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_ 
+* `atlas <https://sites.ecmwf.int/docs/atlas>`_
 * pgen
 * plume
 
