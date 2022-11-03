@@ -1,13 +1,36 @@
-Welcome to the Digital Twin Engine's documentation
+ECMWF's Digital Twin Engine
 ==================================================
 
-The Digital Twin Engine is a collection of components built to facilitate the implementation of Digital Twins.
+The Digital Twin Engine is a collection of components built to facilitate the implementation of Digital Twins. The digital twin engine has been developed at ECMWF as part of Destination Earth.
+
+Components
+----------
 
 
-.. index:: Contents
+* `fdb <https://github.com/ecmwf/fdb>`_ (github)
+* `multio <https://multio.readthedocs.io/en/latest/>`_
+* `aviso <https://pyaviso.readthedocs.io/en/latest/>`_
+* `polytope <https://polytope.readthedocs.io/en/latest/>`_
+* `pyfdb <https://pyfdb.readthedocs.io/en/latest/>`_
+* `metview <https://metview.readthedocs.io/en/latest/index.html>`_
+* `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_ (docs in progress)
+* `atlas <https://confluence.ecmwf.int/display/ATLAS>`_
+* pgen
+* plume
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents
+Diagram
+-------
 
-   content/introduction
+.. image:: _static/diagram.png
+  :width: 800
+  :alt: Alternative text
+
+
+Contact points:
+---------------
+
+ * Tiago Quintino
+ * Simon Smart
+ * James Hawkes
+
+(firstname.lastname@ecmwf.int)
