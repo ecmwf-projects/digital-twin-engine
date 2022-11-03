@@ -2,7 +2,7 @@ ECMWF's Digital Twin Engine
 ==================================================
 
 .. warning::
-  |:warning:| Work in progress!
+  Work in progress!
 
 The Digital Twin Engine is a collection of components built to facilitate the implementation of Digital Twins. The digital twin engine has been developed at ECMWF as part of Destination Earth.
 
@@ -17,7 +17,7 @@ Documentation
 * `atlas <https://sites.ecmwf.int/docs/atlas>`_
 
 .. warning::
-  |:warning:| Full documentation coming soon!
+  Full documentation coming soon!
 
 * `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_ 
 * `fdb <https://github.com/ecmwf/fdb>`_ 
