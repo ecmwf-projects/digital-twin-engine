@@ -13,7 +13,6 @@ Documentation
 * `aviso <https://pyaviso.readthedocs.io/en/latest/>`_
 * `polytope <https://polytope.readthedocs.io/en/latest/>`_
 * `pyfdb <https://pyfdb.readthedocs.io/en/latest/>`_
-* `metview <https://metview.readthedocs.io/en/latest/index.html>`_
 * `atlas <https://sites.ecmwf.int/docs/atlas>`_
 
 .. warning::
