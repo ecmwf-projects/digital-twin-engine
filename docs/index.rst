@@ -22,7 +22,6 @@ Documentation
 * `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_ 
 * `fdb <https://github.com/ecmwf/fdb>`_ 
 * `infero <https://infero.readthedocs.io/en/latest/>`_
-* pgen
 * plume
 
 Diagram
