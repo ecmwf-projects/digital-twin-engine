@@ -23,6 +23,7 @@ Documentation
 * `fdb <https://github.com/ecmwf/fdb>`_
 * `infero <https://infero.readthedocs.io/en/latest/>`_
 * plume
+* troika
 
 Diagram
 -------
