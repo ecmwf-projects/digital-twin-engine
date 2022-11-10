@@ -15,7 +15,7 @@ Documentation
 * `pyfdb <https://pyfdb.readthedocs.io/en/latest/>`_
 * `atlas <https://sites.ecmwf.int/docs/atlas>`_
 * `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_
-* `pyflow <https://sites.ecmwf.int/docs/pyflow/index.html>`
+* `pyflow <https://sites.ecmwf.int/docs/pyflow/index.html>`_
 
 .. warning::
   Full documentation coming soon!
