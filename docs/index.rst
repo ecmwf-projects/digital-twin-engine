@@ -1,5 +1,5 @@
 ECMWF's Digital Twin Engine
-==================================================
+===========================
 
 .. warning::
   Work in progress!
@@ -14,12 +14,13 @@ Documentation
 * `polytope <https://polytope.readthedocs.io/en/latest/>`_
 * `pyfdb <https://pyfdb.readthedocs.io/en/latest/>`_
 * `atlas <https://sites.ecmwf.int/docs/atlas>`_
+* `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_
+* `pyflow <https://sites.ecmwf.int/docs/pyflow/index.html>`
 
 .. warning::
   Full documentation coming soon!
 
-* `ecflow <https://ecflow.readthedocs.io/en/latest/index.html>`_ 
-* `fdb <https://github.com/ecmwf/fdb>`_ 
+* `fdb <https://github.com/ecmwf/fdb>`_
 * `infero <https://infero.readthedocs.io/en/latest/>`_
 * plume
 
