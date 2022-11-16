@@ -3,7 +3,7 @@
 !!! Warning
     **🚧 Work in progress!**
 
-The Digital Twin Engine is a collection of components built to facilitate the implementation of Digital Twins. It is developed by ECMWF as part of Destination Earth.
+The Digital Twin Engine is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth.
 
 ## Documentation
 
