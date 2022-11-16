@@ -6,18 +6,18 @@ The Digital Twin Engine is a collection of components built to facilitate the im
 
 ## Documentation
 
-* multio [[doc](https://multio.readthedocs.io/en/latest), [source](https://github.com/ecmwf/multio)]
-* aviso [[doc](https://pyaviso.readthedocs.io/en/latest), [source](https://github.com/ecmwf/aviso)]
-* polytope [[doc](https://polytope.readthedocs.io/en/latest), [source](https://github.com/ecmwf-projects/polytope-client)]
-* pyfdb [[doc](https://pyfdb.readthedocs.io/en/latest), [source](https://github.com/ecmwf/pyfdb)]
-* metview [[doc](https://metview.readthedocs.io/en/latest), source]
-* atlas [[doc](https://sites.ecmwf.int/docs/atlas), [source](https://github.com/ecmwf/atlas)]
+* multio [[doc](https://multio.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/multio)]
+* aviso [[doc](https://pyaviso.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/aviso)]
+* polytope [[doc](https://polytope.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/polytope-client)]
+* pyfdb [[doc](https://pyfdb.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/pyfdb)]
+* metview [[doc](https://metview.readthedocs.io/en/latest), repo]
+* atlas [[doc](https://sites.ecmwf.int/docs/atlas), [repo](https://github.com/ecmwf/atlas)]
 
-* ecflow [[doc](https://ecflow.readthedocs.io/en/latest/index.html), [source](https://github.com/ecmwf/ecflow)] *
-* fdb [doc, [source](https://github.com/ecmwf/fdb)] *
-* infero [[doc](https://infero.readthedocs.io/en/latest), [source](https://github.com/ecmwf-projects/infero)] *
-* pgen [[doc](https://pgen.readthedocs.io/en/latest/), [source](https://github.com/ecmwf/pgen)] *
-* plume [[doc](https://plume-plugin-mechanism.readthedocs.io/en/latest), [source](https://github.com/ecmwf-projects/plume)] *
+* ecflow [[doc](https://ecflow.readthedocs.io/en/latest/index.html), [repo](https://github.com/ecmwf/ecflow)] *
+* fdb [doc, [repo](https://github.com/ecmwf/fdb)] *
+* infero [[doc](https://infero.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/infero)] *
+* pgen [[doc](https://pgen.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pgen)] *
+* plume [[doc](https://plume-plugin-mechanism.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/plume)] *
 
 \* Full documentation coming soon.
 
