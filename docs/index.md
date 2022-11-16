@@ -11,7 +11,6 @@ The Digital Twin Engine is a collection of components built to facilitate the im
 * aviso [[docs](https://pyaviso.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/aviso)]
 * polytope [[docs](https://polytope.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/polytope-client)]
 * pyfdb [[docs](https://pyfdb.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/pyfdb)]
-* metview [[docs](https://metview.readthedocs.io/en/latest), repo]
 * atlas [[docs](https://sites.ecmwf.int/docs/atlas), [repo](https://github.com/ecmwf/atlas)]
 
 > **🚧 Full docs coming soon:**
