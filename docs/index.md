@@ -3,12 +3,6 @@
 !!! Warning
     **🚧 Work in progress!**
 
-<!-- The Digital Twin Engine (DTE) is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth. -->
-
-<!-- <div>
-<p style="float: left; margin: 0 20px 0 0;"><img src="destination-earth-logo.png" alt="Destination Earth Logo" width="100"/></p><p style="padding: 40px 0 20px 0;"><i>This software is co-developed with funding support by the EU program Destination Earth.</i></p>
-</div> -->
-
 <div>
 <p style="float: left; margin: 0 20px 0 20px;">
     <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="150"/>
@@ -22,8 +16,8 @@ The Digital Twin Engine (DTE) is a collection of components built to facilitate 
 <p style="float: right; margin: 0 5px 0 0px;">
     <img src="eu-logo.png" alt="EU Logo" width="80"/>
 </p>
-<p style="padding: 15px 20px 20px 20px;">
-<i>This software is co-developed with funding support by the EU program Destination Earth.</i>
+<p style="padding: 15px 20px 20px 20px; text-align: right;">
+<i><small>This software is co-developed with funding support by the EU program Destination Earth.&nbsp;&nbsp;&nbsp;</small></i>
 </p>
 </div>
 
