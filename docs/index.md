@@ -17,7 +17,7 @@ The Digital Twin Engine (DTE) is a collection of components built to facilitate 
     <img src="eu-logo.png" alt="EU Logo" width="80"/>
 </p>
 <p style="padding: 15px 20px 20px 20px; text-align: right;">
-<i><small>This software is co-developed with funding support by the EU program Destination Earth.&nbsp;&nbsp;&nbsp;</small></i>
+<i><small>This software is developed with co-funding by the European Union under the Destination Earth initiative.&nbsp;&nbsp;&nbsp;</small></i>
 </p>
 </div>
 
