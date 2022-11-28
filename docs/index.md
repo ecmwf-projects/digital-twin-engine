@@ -1,4 +1,4 @@
-# ECMWF's Digital Twin Engine
+# Destination Earth Digital Twin Engine
 
 !!! Warning
     **🚧 Work in progress!**
@@ -20,7 +20,7 @@ The Digital Twin Engine (DTE) is a collection of components built to facilitate 
 
 <div>
 <p style="float: right; margin: 0 5px 0 0px;">
-    <img src="eu_logo.png" alt="EU Logo" width="80"/>
+    <img src="eu-logo.png" alt="EU Logo" width="80"/>
 </p>
 <p style="padding: 15px 20px 20px 20px;">
 <i>This software is co-developed with funding support by the EU program Destination Earth.</i>
