@@ -1,6 +1,7 @@
 site_name: Digital Twin Engine
 theme:
     name: readthedocs
+    # logo: destination-earth-logo.png
 markdown_extensions:
     - admonition
 extra_css:

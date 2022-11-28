@@ -3,7 +3,21 @@
 !!! Warning
     **🚧 Work in progress!**
 
-The Digital Twin Engine (DTE) is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth.
+<!-- The Digital Twin Engine (DTE) is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth. -->
+
+<!-- <div>
+<p style="float: left; margin: 0 20px 0 0;"><img src="destination-earth-logo.png" alt="Destination Earth Logo" width="100"/></p><p style="padding: 40px 0 20px 0;"><i>This software is co-developed with funding support by the EU program Destination Earth.</i></p>
+</div> -->
+
+<div>
+<p style="float: right; margin: 0 20px 0 20px;">
+    <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="150"/>
+</p>
+<p style="padding: 15px 0 20px 0;">
+The Digital Twin Engine (DTE) is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth. This software is co-developed with funding support by the EU program Destination Earth.
+</p>
+</div>
+
 
 ## Documentation
 
@@ -12,6 +26,7 @@ The Digital Twin Engine (DTE) is a collection of components built to facilitate 
 * polytope [[docs](https://polytope.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/polytope-client)]
 * pyfdb [[docs](https://pyfdb.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/pyfdb)]
 * atlas [[docs](https://sites.ecmwf.int/docs/atlas), [repo](https://github.com/ecmwf/atlas)]
+* pyflow [[docs](https://ecmwf-pyflow.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
 
 > **🚧 Full docs coming soon:**
 
@@ -23,7 +38,7 @@ The Digital Twin Engine (DTE) is a collection of components built to facilitate 
 
 ## The DTE in Destination Earth
 
-This diagram illustrates how the Digital Twin Engine components are deployed in Destination Earth, on EuroHPC machines and connected infrastructure-as-a-service.
+This diagram illustrates how the Digital Twin Engine components are deployed on EuroHPC machines and connected infrastructure-as-a-service in Destination Earth.
 
 ![DTE diagram](diagram.png)
 
@@ -52,6 +67,10 @@ The **fdb** is a domain-specific object store for meteorological data described 
 ### atlas [[docs](https://sites.ecmwf.int/docs/atlas), [repo](https://github.com/ecmwf/atlas)]
 
 **atlas** is an open source library providing grids, mesh generation, and parallel data structures targetting numerical weather prediction or climate model developments.
+
+### pyflow [[docs](https://ecmwf-pyflow.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
+
+**pyflow** is a high level Python interface to **ecflow** allowing the creation of suites in an efficient and “pythonic” way. **pyflow** acts both as a compiler and a library for **ecflow** definition files which generate suites.
 
 ### ecflow [[docs](https://ecflow.readthedocs.io/en/latest/index.html), [repo](https://github.com/ecmwf/ecflow)]
 
