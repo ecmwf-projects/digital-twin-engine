@@ -26,7 +26,7 @@ The Digital Twin Engine (DTE) is a collection of components built to facilitate 
 * polytope [[docs](https://polytope.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/polytope-client)]
 * pyfdb [[docs](https://pyfdb.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/pyfdb)]
 * atlas [[docs](https://sites.ecmwf.int/docs/atlas), [repo](https://github.com/ecmwf/atlas)]
-* pyflow [[docs](https://ecmwf-pyflow.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
+* pyflow [[docs](https://pyflow-workflow-generator.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
 
 > **🚧 Full docs coming soon:**
 
@@ -46,7 +46,7 @@ This diagram illustrates how the Digital Twin Engine components are deployed on 
 
 ### multio [[docs](https://multio.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/multio)]
 
-**multio** is a library providing an I/O server for distributed HPC jobs, post-processing pipelines and I/O multiplexing. It provides an asynchronous system for aggregating data distributed across compute nodes into global data objects. It uses the associated metadata to route the data through configurable data processing pipelines, both pre- and post-aggregation. These pipelines can be configured to perform on-the-fly post-processing, as well as forwarding the data (or post-processed output) to a selection of downstream data consumers, including the FDB. 
+**multio** is a library providing an I/O server for distributed HPC jobs, post-processing pipelines and I/O multiplexing. It provides an asynchronous system for aggregating data distributed across compute nodes into global data objects. It uses the associated metadata to route the data through configurable data processing pipelines, both pre- and post-aggregation. These pipelines can be configured to perform on-the-fly post-processing, as well as forwarding the data (or post-processed output) to a selection of downstream data consumers, including the **fdb**. 
 
 ### aviso [[docs](https://pyaviso.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/aviso)]
 
@@ -54,7 +54,7 @@ This diagram illustrates how the Digital Twin Engine components are deployed on 
 
 ### polytope [[docs](https://polytope.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/polytope-client)]
 
-**polytope** is a horizontally scalable service which provides a datacube access API over HTTPS. Its purpose within Destination Earth is to serve the data stored in the FDB. **polytope** implements access control and is also capable of federating access to data across different data centres. **polytope** contains novel algorithms for performing feature extraction from datacubes, allowing direct subsetting of high-density data per user requests.
+**polytope** is a horizontally scalable service which provides a datacube access API over HTTPS. Its purpose within Destination Earth is to serve the data stored in the **fdb**. **polytope** implements access control and is also capable of federating access to data across different data centres. **polytope** contains novel algorithms for performing feature extraction from datacubes, allowing direct subsetting of high-density data per user requests.
 
 ### fdb [docs, [repo](https://github.com/ecmwf/fdb)] 
 
@@ -68,7 +68,7 @@ The **fdb** is a domain-specific object store for meteorological data described 
 
 **atlas** is an open source library providing grids, mesh generation, and parallel data structures targetting numerical weather prediction or climate model developments.
 
-### pyflow [[docs](https://ecmwf-pyflow.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
+### pyflow [[docs](https://pyflow-workflow-generator.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
 
 **pyflow** is a high level Python interface to **ecflow** allowing the creation of suites in an efficient and “pythonic” way. **pyflow** acts both as a compiler and a library for **ecflow** definition files which generate suites.
 
@@ -82,7 +82,7 @@ The **fdb** is a domain-specific object store for meteorological data described 
 
 ### pgen [[docs](https://pgen.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pgen)]
 
-**pgen** is a parallel execution framework designed to perform post-processing on model output. **pgen** is configured with downstream (user) data requirements, which specify what post-processing should be applied to which elements of the output. This post-processing may take the form of interpolation of the data to a different resolution, along with rotations and/or regional subselections. Typically one **pgen** instance is started for each step of the model output, once it has been made available by all instances of the model. Each instance consists of one broker task, and a number of worker tasks to whom the work is distributed. They retrieve data from the FDB according to the specified metadata and write data to the parallel filesystem as required. 
+**pgen** is a parallel execution framework designed to perform post-processing on model output. **pgen** is configured with downstream (user) data requirements, which specify what post-processing should be applied to which elements of the output. This post-processing may take the form of interpolation of the data to a different resolution, along with rotations and/or regional subselections. Typically one **pgen** instance is started for each step of the model output, once it has been made available by all instances of the model. Each instance consists of one broker task, and a number of worker tasks to whom the work is distributed. They retrieve data from the **fdb** according to the specified metadata and write data to the parallel filesystem as required. 
 
 ### plume [[docs](https://plume-plugin-mechanism.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/plume)]
 
