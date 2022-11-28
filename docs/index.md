@@ -10,11 +10,20 @@
 </div> -->
 
 <div>
-<p style="float: right; margin: 0 20px 0 20px;">
+<p style="float: left; margin: 0 20px 0 20px;">
     <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="150"/>
 </p>
-<p style="padding: 15px 0 20px 0;">
-The Digital Twin Engine (DTE) is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth. This software is co-developed with funding support by the EU program Destination Earth.
+<p style="padding: 15px 0 10px 0;">
+The Digital Twin Engine (DTE) is a collection of components built to facilitate the implementation of Digital Twins. These components are developed by ECMWF as part of Destination Earth.
+</p>
+</div>
+
+<div>
+<p style="float: right; margin: 0 5px 0 0px;">
+    <img src="eu_logo.png" alt="EU Logo" width="80"/>
+</p>
+<p style="padding: 15px 20px 20px 20px;">
+<i>This software is co-developed with funding support by the EU program Destination Earth.</i>
 </p>
 </div>
 
