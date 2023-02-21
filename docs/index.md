@@ -45,7 +45,16 @@ The core software has been developed by ECMWF through several projects with R&I 
 
 With the support of the European Union under the DestinE initiative, ECMWF will ensure the interoperability with the first developed DTs, will follow widely adopted standards for the DTE software development process, and consider a range of other publicly available Earth system software through the incorporation and/or development of suitable connectors. 
 
-Enter the developers’ page [https://digital-twin-engine.readthedocs.io/en/latest/documentation/](documentation.md)
+<!-- ```diff
++ Enter the developers’ page [https://digital-twin-engine.readthedocs.io/en/latest/documentation/](documentation.md)
+``` -->
+<div style="text-align:center">
+<div class="note", style="border: 1px solid black">
+Enter the developers’ page <a href="./documentation">https://digital-twin-engine.readthedocs.io/en/latest/documentation/ <a\>
+</div>
+</div>
+
+
 
 
 <div>
