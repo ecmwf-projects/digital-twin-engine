@@ -50,7 +50,7 @@ With the support of the European Union under the DestinE initiative, ECMWF will 
 ``` -->
 <div style="text-align:center">
 <div class="note", style="border: 1px solid black">
-Enter the developers’ page <a href="./documentation">https://digital-twin-engine.readthedocs.io/en/latest/documentation/ <a\>
+Enter the developers’ page <a href="./documentation">here <a\>.
 </div>
 </div>
 
