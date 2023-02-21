@@ -27,7 +27,7 @@ The European Centre for Medium-Range Weather Forecasts ECMWF is developing the D
 
 The DTE consists of the software infrastructure necessary for extreme-scale simulations, data fusion, data handling, and machine learning necessary to efficiently deploy and connect different digital twins with the overall DestinE platform. 
 
-The opt-in DTE components are continuously evolving to comply with equally evolving standards on data access and data transformations and provide hooks for adaptors that facilitate interoperability. Meteorological data will comply with World Meteorological Organisation (WMO) data standards, in addition we seek to be INSPIRE compliant1,  and follow as much as possible OGC standards to make location information and services FAIR – Findable, Accessible, Interoperable and Reusable. Some of the digital twin data will also comply with the directives on the availability of public datasets2. 
+The opt-in DTE components are continuously evolving to comply with equally evolving standards on data access and data transformations and provide hooks for adaptors that facilitate interoperability. Meteorological data will comply with World Meteorological Organisation (WMO) data standards, in addition we seek to be INSPIRE compliant[<sup>1</sup>](#1), and follow as much as possible OGC standards to make location information and services FAIR – Findable, Accessible, Interoperable and Reusable. Some of the digital twin data will also comply with the directives on the availability of public datasets[<sup>2</sup>](#2). 
 
 ECMWF  will contribute to the development and maintenance of efficient data access methods to such data and provide hooks to community-relevant connectors and be interoperable with other tools (e.g., CDO, CDS toolbox), community software platform (e.g. Pangeo) and infrastructure (Wekeo, EWC, etc.).  
 
@@ -45,7 +45,7 @@ The core software has been developed by ECMWF through several projects with R&I 
 
 With the support of the European Union under the DestinE initiative, ECMWF will ensure the interoperability with the first developed DTs, will follow widely adopted standards for the DTE software development process, and consider a range of other publicly available Earth system software through the incorporation and/or development of suitable connectors. 
 
-Enter the developers’ page [https://digital-twin-engine.readthedocs.io/en/latest/](https://digital-twin-engine.readthedocs.io/en/latest/)
+<!-- Enter the developers’ page [https://digital-twin-engine.readthedocs.io/en/latest/](https://digital-twin-engine.readthedocs.io/en/latest/) -->
 
 
 <div>
@@ -136,3 +136,7 @@ The **fdb** is a domain-specific object store for meteorological data described 
  * James Hawkes
 
 *(firstname.lastname@ecmwf.int)*
+
+<a name="1"></a> [1] [https://inspire.ec.europa.eu/training/inspire-data-specifications](https://inspire.ec.europa.eu/training/inspire-data-specifications)
+
+<a name="2"></a> [2] [https://digital-strategy.ec.europa.eu/en/news/commission-defines-high-value-datasets-be-made-available-re-use](https://digital-strategy.ec.europa.eu/en/news/commission-defines-high-value-datasets-be-made-available-re-use)
