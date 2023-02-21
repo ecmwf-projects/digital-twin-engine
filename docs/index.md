@@ -5,9 +5,22 @@
 
 <div>
 <p style="float: left; margin: 0 20px 0 20px;">
-    <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="150"/>
+    <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="250"/>
 </p>
 <p style="padding: 15px 0 10px 0;">
+</p>
+<p style="float: middle; margin: 0 5px 0 0px;">
+    <img src="eu-logo.png" alt="EU Logo" width="250"/>
+</p>
+</div>
+
+<br />
+<br />
+
+<!-- <br />
+
+<br /> -->
+
 Welcome to the ECMWF Digital Twin Engine documentation developers’ page. 
 
 The European Centre for Medium-Range Weather Forecasts ECMWF is developing the Digital Twin Engine (DTE) in the frame of Destination Earth (DestinE), the ambitious initiative of the European Union to create digital twins of the Earth system.  
@@ -34,8 +47,6 @@ With the support of the European Union under the DestinE initiative, ECMWF will 
 
 Enter the developers’ page [https://digital-twin-engine.readthedocs.io/en/latest/](https://digital-twin-engine.readthedocs.io/en/latest/)
 
-</p>
-</div>
 
 <div>
 <p style="float: right; margin: 0 5px 0 0px;">
