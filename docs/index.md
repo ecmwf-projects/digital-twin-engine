@@ -1,14 +1,14 @@
 # Destination Earth Digital Twin Engine
 
-<div>
-<p style="float: left; margin: 0 20px 0 20px;">
+<div style="text-align:center">
+<p style="float: middle; margin: 0 5px 0 0px;">
     <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="250"/>
 </p>
-<p style="padding: 15px 0 10px 0;">
-</p>
-<p style="float: middle; margin: 0 5px 0 0px;">
+<!-- <p style="padding: 15px 0 10px 0;">
+</p> -->
+<!-- <p style="float: middle; margin: 0 5px 0 0px;">
     <img src="eu-logo.png" alt="EU Logo" width="250"/>
-</p>
+</p> -->
 </div>
 
 <br />
@@ -28,7 +28,7 @@ Enter the developers’ page <a href="./documentation">here </a>
 
 ## What is the Digital Twin Engine?
 
-The European Centre for Medium-Range Weather Forecasts ECMWF is developing the Digital Twin Engine (DTE) in the frame of Destination Earth (DestinE), the ambitious initiative of the European Union to create digital twins of the Earth system.  
+The European Centre for Medium-Range Weather Forecasts ECMWF is developing the Digital Twin Engine (DTE) in the frame of [Destination Earth (DestinE)](https://digital-strategy.ec.europa.eu/en/policies/destination-earth), the ambitious initiative of the European Union to create digital twins of the Earth system.  
 
 The DTE consists of the software infrastructure necessary for extreme-scale simulations, data fusion, data handling, and machine learning necessary to efficiently deploy and connect different digital twins with the overall DestinE platform. 
 
@@ -36,7 +36,7 @@ The opt-in DTE components are continuously evolving to comply with equally evolv
 
 ECMWF  will contribute to the development and maintenance of efficient data access methods to such data and provide hooks to community-relevant connectors and be interoperable with other tools (e.g., CDO, CDS toolbox), community software platform (e.g. Pangeo) and infrastructure (Wekeo, EWC, etc.).  
 
-Following the ECWMF 2022 software strategy, all DTE data handling and processing components are openly developed, fostering direct interactions with the community, and ensuring interoperability of standards, data formats and API’s. In addition, the development of DTE components will leverage community software stacks and contribute back to them. 
+Following the ECMWF 2022 software strategy, all DTE data handling and processing components are openly developed, fostering direct interactions with the community, and ensuring interoperability of standards, data formats and API’s. In addition, the development of DTE components will leverage community software stacks and contribute back to them. 
 
 ECMWF is making available its software, with a proven track record, which is tested and continuously run in operational NWP, and is made available and further developed with community contributions to address the needs of the wider Earth System modelling and Earth observations community.   
 
