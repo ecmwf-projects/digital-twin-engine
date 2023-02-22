@@ -26,7 +26,7 @@ Enter the developers’ page <a href="./documentation">here </a>
 </div>
 </div>
 
-## What is the Digital Twin Engine
+## What is the Digital Twin Engine?
 
 The European Centre for Medium-Range Weather Forecasts ECMWF is developing the Digital Twin Engine (DTE) in the frame of Destination Earth (DestinE), the ambitious initiative of the European Union to create digital twins of the Earth system.  
 
