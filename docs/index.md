@@ -1,8 +1,5 @@
 # Destination Earth Digital Twin Engine
 
-!!! Warning
-    **🚧 Work in progress!**
-
 <div>
 <p style="float: left; margin: 0 20px 0 20px;">
     <img src="destination-earth-logo.png" alt="Destination Earth Logo" width="250"/>
@@ -23,6 +20,14 @@
 
 Welcome to the ECMWF Digital Twin Engine documentation developers’ page. 
 
+<div style="text-align:center">
+<div class="note", style="border: 1px solid black">
+Enter the developers’ page <a href="./documentation">here </a>.
+</div>
+</div>
+
+## What is the Digital Twin Engine
+
 The European Centre for Medium-Range Weather Forecasts ECMWF is developing the Digital Twin Engine (DTE) in the frame of Destination Earth (DestinE), the ambitious initiative of the European Union to create digital twins of the Earth system.  
 
 The DTE consists of the software infrastructure necessary for extreme-scale simulations, data fusion, data handling, and machine learning necessary to efficiently deploy and connect different digital twins with the overall DestinE platform. 
@@ -35,7 +40,7 @@ Following the ECWMF 2022 software strategy, all DTE data handling and processing
 
 ECMWF is making available its software, with a proven track record, which is tested and continuously run in operational NWP, and is made available and further developed with community contributions to address the needs of the wider Earth System modelling and Earth observations community.   
 
-### Intellectual Property Rights:  
+## Intellectual Property Rights 
 
 This software is licensed under the terms of the Apache License Version 2.0 which can be obtained at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0). 
 
@@ -48,14 +53,6 @@ With the support of the European Union under the DestinE initiative, ECMWF will 
 <!-- ```diff
 + Enter the developers’ page [https://digital-twin-engine.readthedocs.io/en/latest/documentation/](documentation.md)
 ``` -->
-<div style="text-align:center">
-<div class="note", style="border: 1px solid black">
-Enter the developers’ page <a href="./documentation">here <a\>.
-</div>
-</div>
-
-
-
 
 <div>
 <p style="float: right; margin: 0 5px 0 0px;">
