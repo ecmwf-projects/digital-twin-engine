@@ -22,7 +22,7 @@ Welcome to the ECMWF Digital Twin Engine documentation developers’ page.
 
 <div style="text-align:center">
 <div class="note", style="border: 1px solid black">
-Enter the developers’ page <a href="./documentation">here </a>.
+Enter the developers’ page <a href="./documentation">here </a>
 </div>
 </div>
 
