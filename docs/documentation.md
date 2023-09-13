@@ -76,17 +76,17 @@ The **fdb** is a domain-specific object store for meteorological data described 
 
 <style scoped>
 table {
-    font-size: 14px;
+    font-size: 12px;
 }
 </style>
 
 |	          | Runtime	                                              |            Data distribution	                |                       Type of functions	  |               Multiple field view                       |         Data access                   | User interaction                                      |
 |-------------|-------------------------------------------------------|-------------------------------------------------|---------------------------------------------|---------------------------------------------------------|---------------------------------------|-------------------------------------------------------|
-|**plume**	  | Runs inside the digital twin	                      | parallel distributed fields	                    | built-in functions and <br>user-defined plugins | Can view all fields in the <br>model at each time step	    | Accesses data in-memory <br>of the model  | External plugins require <br>acceptance to run within DT  |
-|**multio**	  | Runs together with model, <br>via asynchronous IO servers | both parallel distributed <br>and aggregated fields | built-in functions and <br>user-defined plugins | Views one field at a time                               | Accepts in-memory data <br>via API call   | External plugins require <br>acceptance to run within DT  |
-|**pgen**	  | Runs after the model                                  | whole aggregated fields	                        | built-in only	                              | Processes one field at a time <br>(with exception of winds) | Reads data from storage	            | User can request additional <br>processing                |
-|**pproc**	  | Runs after the model                                  | whole aggregated fields	                        | built-in only	                              | Access any fields	                                    | Reads data from storage               | User can request additional <br>processing                |
-|**polytope** | Service running 24/7, <br>accessed on demand              | whole aggregated fields or <br>extracted features   | built-in only                               | Access to multiple fields <br>simultaneously                | Reads data from storage               | User driven requests                                  | 
+|**plume**	  | Runs inside the digital twin	                      | parallel distributed fields	                    | built-in functions and user-defined plugins | Can view all fields in the model at each time step	    | Accesses data in-memory of the model  | External plugins require acceptance to run within DT  |
+|**multio**	  | Runs together with model, via asynchronous IO servers | both parallel distributed and aggregated fields | built-in functions and user-defined plugins | Views one field at a time                               | Accepts in-memory data via API call   | External plugins require acceptance to run within DT  |
+|**pgen**	  | Runs after the model                                  | whole aggregated fields	                        | built-in only	                              | Processes one field at a time (with exception of winds) | Reads data from storage	            | User can request additional processing                |
+|**pproc**	  | Runs after the model                                  | whole aggregated fields	                        | built-in only	                              | Access any fields	                                    | Reads data from storage               | User can request additional processing                |
+|**polytope** | Service running 24/7, accessed on demand              | whole aggregated fields or extracted features   | built-in only                               | Access to multiple fields simultaneously                | Reads data from storage               | User driven requests                                  | 
 
 
 
