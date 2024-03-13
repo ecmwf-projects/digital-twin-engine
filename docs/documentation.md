@@ -14,7 +14,7 @@
 > **🚧 Full docs coming soon:**
 
 <!-- * ecflow [[docs](https://ecflow.readthedocs.io/en/latest/index.html), [repo](https://github.com/ecmwf/ecflow)] -->
-* fdb [docs, [repo](https://github.com/ecmwf/fdb)]
+* fdb [[docs](https://fields-database.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/fdb)]
 * infero [[docs](https://infero.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/infero)]
 * pgen [[docs](https://pgen.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pgen)]
 * plume [[docs](https://plume-plugin-mechanism.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/plume)]
@@ -39,7 +39,7 @@ This diagram illustrates how the Digital Twin Engine components are deployed on 
 
 **polytope** is a horizontally scalable service which provides a datacube access API over HTTPS. Its purpose within Destination Earth is to serve the data stored in the **fdb**. **polytope** implements access control and is also capable of federating access to data across different data centres. **polytope** contains novel algorithms for performing feature extraction from datacubes, allowing direct subsetting of high-density data per user requests.
 
-### fdb [docs, [repo](https://github.com/ecmwf/fdb)] 
+### fdb [[docs](https://fields-database.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/fdb)] 
 
 The **fdb** is a domain-specific object store for meteorological data described by a curated schema of scientifically meaningful metadata. In destination earth, **fdb** acts as a high-performance data sink for digital twins, enabling writing of large amounts of data efficiently whilst simultaneously indexing the data and making it available to concurrently running consumers. The **fdb** is used as a rolling archive for full, high-resolution output of digital twins on HPC, and is also used as a large capacity, long-term indexed store of meteorological data.
 
