@@ -10,8 +10,6 @@
 * atlas [[docs](https://sites.ecmwf.int/docs/atlas), [repo](https://github.com/ecmwf/atlas)]
 * pyflow [[docs](https://pyflow-workflow-generator.readthedocs.io/en/latest/), [repo](https://github.com/ecmwf/pyflow)]
 * ecflow [[docs](https://ecflow.readthedocs.io/en/latest/index.html), [repo](https://github.com/ecmwf/ecflow)]
-
-<!-- * ecflow [[docs](https://ecflow.readthedocs.io/en/latest/index.html), [repo](https://github.com/ecmwf/ecflow)] -->
 * fdb [[docs](https://fields-database.readthedocs.io/en/latest), [repo](https://github.com/ecmwf/fdb)]
 * infero [[docs](https://infero.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/infero)]
 * plume [[docs](https://plume-plugin-mechanism.readthedocs.io/en/latest), [repo](https://github.com/ecmwf-projects/plume)]
